@@ -1,0 +1,7 @@
+&mask_params
+levelmin = 8
+levelmax = 10
+g9p_path = '/path/to/ginnungagap/fields/'
+mus_path = '/path/to/music/fields/'
+/
+
